@@ -6,7 +6,7 @@ home = File.expand_path('~')
 
 Dir['*'].each do |file|
   next if file =~ /install/
-  target = File.join(home, ".#{file}")
+  target = File.join(home, ".config", "#{file}")
   `ln -sf #{File.expand_path file} #{target}`
 end
 
