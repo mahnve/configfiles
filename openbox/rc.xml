@@ -3,7 +3,7 @@
         Copy the file to $HOME/.config/openbox/ instead. -->
 <openbox_config xmlns="http://openbox.org/3.4/rc" xmlns:xi="http://www.w3.org/2001/XInclude">
   <resistance>
-    <strength>40</strength>
+    <strength>50</strength>
     <screen_edge_strength>50</screen_edge_strength>
   </resistance>
   <focus>
