@@ -154,9 +154,9 @@
      cases. -->
   <margins>
     <top>0</top>
-    <bottom>5</bottom>
+    <bottom>0</bottom>
     <left>0</left>
-    <right>5</right>
+    <right>0</right>
   </margins>
   <dock>
     <position>TopLeft</position>
