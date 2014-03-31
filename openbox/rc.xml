@@ -153,7 +153,7 @@
      Many programs reserve space automatically, but you can use this in other
      cases. -->
   <margins>
-    <top>5</top>
+    <top>0</top>
     <bottom>5</bottom>
     <left>0</left>
     <right>5</right>
