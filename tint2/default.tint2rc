@@ -87,7 +87,7 @@ font_shadow = 0
 systray = 1
 systray_padding = 0 4 5
 systray_sort = ascending
-systray_background_id = 2
+systray_background_id = 3
 systray_icon_size = 0
 systray_icon_asb = 90 -20 35
 
