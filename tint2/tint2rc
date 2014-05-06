@@ -31,7 +31,7 @@ border_color = #FFFFFF 100
 rounded = 2
 border_width = 1
 background_color = #6F6F6F 100
-border_color = #FFFFFF 100
+border_color = #F0F0F0 100
 
 # ID 6
 rounded = 0
