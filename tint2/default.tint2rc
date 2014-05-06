@@ -13,13 +13,13 @@ border_color = #FFFFFF 40
 rounded = 2
 border_width = 1
 background_color = #FFFFFF 20
-border_color = #FFFFFF 20
+border_color = #FFFFFF 21
 
 # ID 3
 rounded = 2
 border_width = 1
 background_color = #FFFFFF 20
-border_color = #FFFFFF 44
+border_color = #FFFFFF 45
 
 # ID 4
 rounded = 2
@@ -30,8 +30,8 @@ border_color = #FFFFFF 100
 # ID 5
 rounded = 2
 border_width = 0
-background_color = #000000 36
-border_color = #FFFFFF 22
+background_color = #000000 37
+border_color = #FFFFFF 23
 
 # Panel
 panel_monitor = all
@@ -63,7 +63,7 @@ task_icon = 1
 task_text = 0
 task_centered = 0
 task_maximum_size = 140 30
-task_padding = 2 2
+task_padding = 3 3
 task_background_id = 2
 task_active_background_id = 3
 task_urgent_background_id = 4
