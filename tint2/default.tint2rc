@@ -66,7 +66,7 @@ taskbar_active_background_id = 5
 # Tasks
 urgent_nb_of_blink = 8
 task_icon = 1
-task_text = 0
+task_text = 1
 task_centered = 0
 task_maximum_size = 50 30
 task_padding = 3 3
