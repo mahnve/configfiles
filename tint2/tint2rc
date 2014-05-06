@@ -85,7 +85,7 @@ task_iconified_icon_asb = 25 0 0
 task_font = Droid Sans 9
 task_font_color = #C3C3C3 100
 task_active_font_color = #C3C3C3 100
-task_urgent_font_color = #FF6F29 100
+task_urgent_font_color = #C3C3C3 100
 task_iconified_font_color = #C3C3C3 40
 font_shadow = 0
 
