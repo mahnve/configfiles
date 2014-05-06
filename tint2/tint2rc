@@ -72,7 +72,7 @@ task_maximum_size = 190 30
 task_padding = 3 3
 task_background_id = 2
 task_active_background_id = 3
-task_urgent_background_id = 4
+task_urgent_background_id = 6
 task_iconified_background_id = 2
 
 # Task Icons
