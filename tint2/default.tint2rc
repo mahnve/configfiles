@@ -79,7 +79,7 @@ task_iconified_background_id = 5
 task_icon_asb = 70 0 0
 task_active_icon_asb = 100 0 0
 task_urgent_icon_asb = 100 0 0
-task_iconified_icon_asb = 10 0 0
+task_iconified_icon_asb = 25 0 0
 
 # Fonts
 task_font = Droid Sans 11
