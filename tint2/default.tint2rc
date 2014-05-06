@@ -19,7 +19,7 @@ border_color = #FFFFFF 20
 rounded = 2
 border_width = 1
 background_color = #3F3F3F 100
-border_color = #FFFFFF 40
+border_color = #F0F0F0 100
 
 # ID 4
 rounded = 2
