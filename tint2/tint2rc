@@ -33,6 +33,12 @@ border_width = 0
 background_color = #000000 33
 border_color = #FFFFFF 20
 
+# ID 6
+rounded = 0
+border_width = 0
+background_color = #000000 100
+border_color = #FFFFFF 100
+
 # Panel
 panel_monitor = all
 panel_position = bottom center horizontal
