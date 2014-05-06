@@ -12,14 +12,14 @@ border_color = #FFFFFF 40
 # ID 2
 rounded = 2
 border_width = 1
-background_color = #FFFFFF 26
+background_color = #FFFFFF 25
 border_color = #FFFFFF 20
 
 # ID 3
 rounded = 2
 border_width = 1
 background_color = #FFFFFF 20
-border_color = #FFFFFF 42
+border_color = #FFFFFF 41
 
 # ID 4
 rounded = 2
@@ -30,7 +30,7 @@ border_color = #FFFFFF 100
 # ID 5
 rounded = 2
 border_width = 0
-background_color = #000000 34
+background_color = #000000 33
 border_color = #FFFFFF 20
 
 # Panel
@@ -53,7 +53,7 @@ strut_policy = follow_size
 
 # Taskbar
 taskbar_mode = multi_desktop
-taskbar_padding = 2 2 2
+taskbar_padding = 3 3 2
 taskbar_background_id = 2
 taskbar_active_background_id = 3
 
