@@ -71,7 +71,7 @@ task_centered = 0
 task_maximum_size = 140 30
 task_padding = 3 3
 task_background_id = 2
-task_active_background_id = 5
+task_active_background_id = 4
 task_urgent_background_id = 4
 task_iconified_background_id = 5
 
