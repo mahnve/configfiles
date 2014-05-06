@@ -29,7 +29,7 @@ border_color = #FFFFFF 100
 
 # ID 5
 rounded = 2
-border_width = 0
+border_width = 1
 background_color = #000000 33
 border_color = #FFFFFF 20
 
