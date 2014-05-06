@@ -71,7 +71,7 @@ task_iconified_background_id = 5
 
 # Task Icons
 task_icon_asb = 90 0 0
-task_active_icon_asb = 20 0 0
+task_active_icon_asb = 100 0 0
 task_urgent_icon_asb = 100 0 0
 task_iconified_icon_asb = 30 30 10
 
