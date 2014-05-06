@@ -86,7 +86,7 @@ task_font = Droid Sans 9
 task_font_color = #C3C3C3 100
 task_active_font_color = #C3C3C3 100
 task_urgent_font_color = #FF6F29 100
-task_iconified_font_color = #C3C3C3 42
+task_iconified_font_color = #C3C3C3 41
 font_shadow = 0
 
 # System Tray
@@ -114,7 +114,7 @@ tooltip_show_timeout = 0.7
 tooltip_hide_timeout = 0.3
 tooltip_background_id = 1
 tooltip_font = sans 10
-tooltip_font_color = #000000 80
+tooltip_font_color = #C3C3C3 100
 
 # Mouse
 mouse_middle = none
