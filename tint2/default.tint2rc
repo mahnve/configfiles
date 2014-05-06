@@ -17,14 +17,14 @@ border_color = #FFFFFF 20
 
 # ID 3
 rounded = 2
-border_width = 1
+border_width = 0
 background_color = #4F4F4F 100
 border_color = #FFFFFF 41
 
 # ID 4
 rounded = 2
-border_width = 0
-background_color = #FF6629 100
+border_width = 1
+background_color = #4F4F4F 100
 border_color = #FFFFFF 100
 
 # ID 5
@@ -36,7 +36,7 @@ border_color = #FFFFFF 20
 # ID 6
 rounded = 0
 border_width = 0
-background_color = #000000 100
+background_color = #FF6F29 100
 border_color = #FFFFFF 100
 
 # Panel
