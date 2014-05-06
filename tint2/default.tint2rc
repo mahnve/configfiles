@@ -23,8 +23,8 @@ border_color = #FFFFFF 41
 
 # ID 4
 rounded = 2
-border_width = 1
-background_color = #4F4F4F 100
+border_width = 0
+background_color = #6F6F6F 100
 border_color = #FFFFFF 100
 
 # ID 5
