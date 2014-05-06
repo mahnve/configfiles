@@ -60,8 +60,8 @@ strut_policy = follow_size
 # Taskbar
 taskbar_mode = multi_desktop
 taskbar_padding = 3 2 3
-taskbar_background_id = 1
-taskbar_active_background_id = 2
+taskbar_background_id = 2
+taskbar_active_background_id = 3
 
 # Tasks
 urgent_nb_of_blink = 8
