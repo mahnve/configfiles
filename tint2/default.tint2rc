@@ -13,13 +13,13 @@ border_color = #FFFFFF 40
 rounded = 2
 border_width = 1
 background_color = #FFFFFF 20
-border_color = #FFFFFF 21
+border_color = #FFFFFF 20
 
 # ID 3
 rounded = 2
 border_width = 1
 background_color = #FFFFFF 20
-border_color = #FFFFFF 45
+border_color = #FFFFFF 44
 
 # ID 4
 rounded = 2
@@ -30,8 +30,14 @@ border_color = #FFFFFF 100
 # ID 5
 rounded = 2
 border_width = 0
-background_color = #000000 37
-border_color = #FFFFFF 23
+background_color = #000000 36
+border_color = #FFFFFF 22
+
+# ID 6
+rounded = 0
+border_width = 0
+background_color = #000000 99
+border_color = #FFFFFF 100
 
 # Panel
 panel_monitor = all
