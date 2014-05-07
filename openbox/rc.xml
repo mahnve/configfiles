@@ -5,7 +5,7 @@
   <resistance>
     <strength>100</strength>
     <screen_edge_strength>100</screen_edge_strength>
-  </resistance>
+ </resistance>
   <focus>
     <focusNew>yes</focusNew>
     <!-- always try to focus new windows when they appear. other rules do
