@@ -55,7 +55,7 @@
     <animateIconify>yes</animateIconify>
     <font place="ActiveWindow">
       <name>Droid Sans</name>
-      <size>10</size>
+      <size>9</size>
       <!-- font size in points -->
       <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
