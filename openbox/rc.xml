@@ -54,7 +54,7 @@
     <keepBorder>yes</keepBorder>
     <animateIconify>yes</animateIconify>
     <font place="ActiveWindow">
-      <name>Droid Sans</name>
+      <name>DejaVu Sans</name>
       <size>9</size>
       <!-- font size in points -->
       <weight>Normal</weight>
