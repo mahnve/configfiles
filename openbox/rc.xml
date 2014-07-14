@@ -63,7 +63,7 @@
       <!-- 'italic' or 'normal' -->
     </font>
     <font place="InactiveWindow">
-      <name>Droid Sans</name>
+      <name>DejaVu Sans</name>
       <size>9</size>
       <!-- font size in points -->
       <weight>Bold</weight>
