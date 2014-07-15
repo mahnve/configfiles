@@ -17,4 +17,9 @@ down=XF86AudioLowerVolume
 mute=XF86AudioMute
 
 [Alsa]
-card=default
+decibel_scale=false
+card=HDA Intel HDMI
+
+[Notification]
+show_notification=false
+notification_type=0
