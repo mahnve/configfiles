@@ -4,31 +4,31 @@
 
 # Background definitions
 # ID 1
-rounded = 2
+rounded = 0
 border_width = 0
 background_color = #222222 100
 border_color = #FFFFFF 40
 
 # ID 2
-rounded = 2
+rounded = 0
 border_width = 0
-background_color = #3F3F3F 100
+background_color = #333333 100
 border_color = #FFFFFF 20
 
 # ID 3
-rounded = 2
+rounded = 0
 border_width = 2
-background_color = #3F3F3F 100
+background_color = #333333 100
 border_color = #1793D1 100
 
 # ID 4
-rounded = 2
+rounded = 0
 border_width = 0
 background_color = #6F6F6F 100
 border_color = #FFFFFF 100
 
 # ID 5
-rounded = 2
+rounded = 0
 border_width = 0
 background_color = #8C8C8C 100
 border_color = #C3C3C3 100
