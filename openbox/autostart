@@ -11,3 +11,4 @@ nitrogen --restore &
 syndaemon -t -k -i 2 &
 volumeicon &
 conky &
+pytyle3 &
