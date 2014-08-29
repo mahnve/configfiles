@@ -124,9 +124,10 @@
       <name>Chat</name>
       <name>Editor</name>
       <name>Web</name>
-      <name/>
-      <name/>
+      <name>Misc</name>
+      <name>Graphics</name>
       <name>Music</name>
+      <name>VM</name>
     </names>
     <popupTime>875</popupTime>
     <!-- The number of milliseconds to show the popup for when switching
@@ -179,50 +180,26 @@
   <keyboard>
     <chainQuitKey>C-g</chainQuitKey>
     <!-- Keybindings for desktop switching -->
-    <keybind key="C-A-Left">
+    <keybind key="C-W-Left">
       <action name="GoToDesktop">
         <to>left</to>
         <wrap>no</wrap>
       </action>
     </keybind>
-    <keybind key="C-A-Right">
+    <keybind key="C-W-Right">
       <action name="GoToDesktop">
         <to>right</to>
         <wrap>no</wrap>
       </action>
     </keybind>
-    <keybind key="C-A-Up">
+    <keybind key="C-W-Up">
       <action name="GoToDesktop">
         <to>up</to>
         <wrap>no</wrap>
       </action>
     </keybind>
-    <keybind key="C-A-Down">
+    <keybind key="C-W-Down">
       <action name="GoToDesktop">
-        <to>down</to>
-        <wrap>no</wrap>
-      </action>
-    </keybind>
-    <keybind key="S-A-Left">
-      <action name="SendToDesktop">
-        <to>left</to>
-        <wrap>no</wrap>
-      </action>
-    </keybind>
-    <keybind key="S-A-Right">
-      <action name="SendToDesktop">
-        <to>right</to>
-        <wrap>no</wrap>
-      </action>
-    </keybind>
-    <keybind key="S-A-Up">
-      <action name="SendToDesktop">
-        <to>up</to>
-        <wrap>no</wrap>
-      </action>
-    </keybind>
-    <keybind key="S-A-Down">
-      <action name="SendToDesktop">
         <to>down</to>
         <wrap>no</wrap>
       </action>
@@ -311,21 +288,22 @@
       <action name="ToggleShowDesktop"/>
     </keybind>
     <!-- Keybindings for windows -->
-    <keybind key="A-F4">
+    <keybind key="W-S-x">
       <action name="Close"/>
     </keybind>
-    <keybind key="A-Escape">
+
+    <keybind key="W-Escape">
       <action name="Lower"/>
       <action name="FocusToBottom"/>
       <action name="Unfocus"/>
     </keybind>
-    <keybind key="A-space">
+    <keybind key="W-space">
       <action name="ShowMenu">
         <menu>client-menu</menu>
       </action>
     </keybind>
     <!-- Keybindings for window switching -->
-    <keybind key="A-Tab">
+    <keybind key="W-Tab">
       <action name="NextWindow">
         <finalactions>
           <action name="Focus"/>
@@ -334,7 +312,7 @@
         </finalactions>
       </action>
     </keybind>
-    <keybind key="A-S-Tab">
+    <keybind key="W-S-Tab">
       <action name="PreviousWindow">
         <finalactions>
           <action name="Focus"/>
@@ -343,7 +321,7 @@
         </finalactions>
       </action>
     </keybind>
-    <keybind key="C-A-Tab">
+    <keybind key="C-W-Tab">
       <action name="NextWindow">
         <panels>yes</panels>
         <desktop>yes</desktop>
@@ -355,22 +333,22 @@
       </action>
     </keybind>
     <!-- Keybindings for window switching with the arrow keys -->
-    <keybind key="W-S-Right">
+    <keybind key="S-W-Right">
       <action name="GrowToEdge">
         <direction>east</direction>
       </action>
     </keybind>
-    <keybind key="W-S-Left">
+    <keybind key="S-W-Left">
       <action name="GrowToEdge">
         <direction>west</direction>
       </action>
     </keybind>
-    <keybind key="W-S-Up">
+    <keybind key="S-W-Up">
       <action name="GrowToEdge">
         <direction>north</direction>
       </action>
     </keybind>
-    <keybind key="W-S-Down">
+    <keybind key="S-W-Down">
       <action name="GrowToEdge">
         <direction>south</direction>
       </action>
