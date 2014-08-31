@@ -377,7 +377,7 @@
     <!-- Keybindings for running applications -->
     <keybind key="S-W-Return">
       <action name="Execute">
-        <command>gnome-terminal</command>
+        <command>urxvt</command>
       </action>
     </keybind>
     <keybind key="W-p">
