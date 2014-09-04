@@ -380,6 +380,9 @@
         <command>urxvt</command>
       </action>
     </keybind>
+    <keybind key="W-Return">
+      <action name="ToggleFullscreen"/>
+    </keybind>
     <keybind key="W-p">
       <action name="Execute">
         <command>/usr/bin/dmenu_run -p 'run:' -nb '#161616' -nf '#f3f3f3' -sb '#161616' -sf '#b7d077' -fn 'Source Code Pro-12'</command>
