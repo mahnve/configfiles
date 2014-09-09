@@ -1,0 +1,14 @@
+export GNOME_DESKTOP_SESSION="openbox" &
+tint2 &
+xfce4-power-manager &
+xcompmgr -c -t-5 -l-5 -r4.2 -o.55 &
+
+xfce4-power-manager &
+slack &
+hexchat &
+pidgin &
+nitrogen --restore &
+syndaemon -t -k -i 2 &
+volumeicon &
+conky &
+pytyle3 &
